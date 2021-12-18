@@ -1,6 +1,6 @@
 # Maskya
 
-Mask Detector Application built using Tensorflow, Keras, and Flask Microframework.
+Mask Detector Application built using Tensorflow, Keras, and OpenCV.
 
 
 ## Background
@@ -10,7 +10,9 @@ This application is created due to help our campus get rid of maskless people.
 
 ## Methodology
 
-*Coming soon*
+1. Open up camera prompt via OpenCV.
+2. Detect faces from camera video streams using **Multitask Cascaded Convolutional Networks (MTCNN)**
+3. *Coming soon* 
 
 
 ## Run Locally
