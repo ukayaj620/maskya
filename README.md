@@ -42,3 +42,11 @@ Step-by-step to run this program.
 ## License
 
 [MIT](./LICENSE)
+
+
+## Paper References
+
+| **Title** | **Link** |
+| --------- | -------- |
+| MobileNetV2: Inverted Residuals and Linear Bottlenecks | [arXiv](https://arxiv.org/abs/1801.04381) |
+| Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks | [arXiv](https://arxiv.org/abs/1604.02878) |
