@@ -7,7 +7,7 @@ from mtcnn import MTCNN
 
 camera = cv2.VideoCapture(0)
 mtcnn_face_detector = MTCNN()
-mask_detector = load_model("./models/training_01/classifier_mobile_net_v2.h5")
+mask_detector = load_model("./models/training_02/classifier_mobile_net_v2.h5")
 
 
 def preprocess_face(frame, face):
